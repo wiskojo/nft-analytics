@@ -1,0 +1,7 @@
+jupyterlab
+pandas
+numpy
+tsmoothie
+plotly
+dash=2.0.0
+jupyter-dash=0.4.0
